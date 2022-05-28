@@ -1,0 +1,9 @@
+click==7.1.2
+Flask==1.1.2
+tensorflow==3.6.1
+nltk
+keras==2.9.0
+json
+random
+pickle
+numpy
